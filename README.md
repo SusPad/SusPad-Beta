@@ -1,4 +1,4 @@
-![SusPad Logo](/images/SusPad_logo.png)
+![SusPad Logo](/art/SusPad_logo.png)
 
 #### The SusPad is an open-source handheld computer, powered by a raspberry pi zero.
 #### It is designed specifically to allow for interchangable input methods, such as controllers, gamepads, and different keyboards
